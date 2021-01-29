@@ -1,13 +1,11 @@
-#### 1、normalize.css
+# File directory
 
-> Official introduction
+1. ###  normalize.css
 
-A modern alternative to CSS resets
+   1. [github](https://github.com/necolas/normalize.css)
+   2. 作用：标准化各种元素的样式，并且保留有用的默认值
 
-##### What does it do?
+2. ### DD_belatedPNG
 
-- Preserves useful defaults, unlike many CSS resets.
-- Normalizes styles for a wide range of elements.
-- Corrects bugs and common browser inconsistencies.
-- Improves usability with subtle modifications.
-- Explains what code does using detailed comments.
+   1. [官网及教程](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
+   2. 作用：解决透明PNG图片背景灰色问题，目前仓库的版本是0.0.8a.js
